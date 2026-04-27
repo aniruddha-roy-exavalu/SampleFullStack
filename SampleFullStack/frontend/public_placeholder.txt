@@ -1,1 +1,0 @@
-Create public/index.html if needed by CRA, omitted for simplicity.
